@@ -84,3 +84,7 @@ flutter run
 5. Garantir pelo menos um caractere de cada classe habilitada
 6. Calcular força da senha (comprimento + diversidade de classes)
 7. Exibir a senha e permitir cópia
+
+![Tela principal](image.png)
+
+![Gerando Senha](image-1.png)
